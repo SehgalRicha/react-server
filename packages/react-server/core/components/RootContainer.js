@@ -13,9 +13,9 @@ class RootContainer extends React.Component {
 module.exports = RootContainer;
 
 RootContainer.propTypes = {
-	listen: React.PropTypes.func,
-	when: React.PropTypes.object, // A promise.
-	_isRootContainer: React.PropTypes.bool,
+	//listen: React.PropTypes.func,
+	//when: React.PropTypes.object, // A promise.
+	//_isRootContainer: React.PropTypes.bool,
 }
 
 RootContainer.defaultProps = {

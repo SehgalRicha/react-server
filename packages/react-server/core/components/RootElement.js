@@ -78,10 +78,10 @@ class RootElement extends React.Component {
 module.exports = RootElement;
 
 RootElement.propTypes = {
-	listen: React.PropTypes.func,
-	when: React.PropTypes.object, // A promise.
-	childProps: React.PropTypes.object,
-	_isRootElement: React.PropTypes.bool,
+	//listen: React.PropTypes.func,
+	//when: React.PropTypes.object, // A promise.
+	//childProps: React.PropTypes.object,
+	//_isRootElement: React.PropTypes.bool,
 }
 
 RootElement.defaultProps = {

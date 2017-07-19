@@ -1,7 +1,7 @@
 
 var ReactServerAgent = require("../ReactServerAgent"),
 	React = require("react");
-
+React.PropTypes = require('prop-types');
 /**
  * FragmentDataCache writes out a serialized form of the ReactServerAgent request
  * data cache into the `data-react-server-data-cache` attribute of a `<div>`

@@ -1,16 +1,17 @@
 
 var React = require('react'),
 	navigateTo = require("../util/navigateTo");
+React.createClass = require('create-react-class');
 
 module.exports = React.createClass({
 	displayName: 'Link',
 
 	propTypes: {
-		path       : React.PropTypes.string,
-		href       : React.PropTypes.string,
-		bundleData : React.PropTypes.bool,
-		reuseDom   : React.PropTypes.bool,
-		className  : React.PropTypes.string,
+		//path       : React.PropTypes.string,
+		//href       : React.PropTypes.string,
+		//bundleData : React.PropTypes.bool,
+		//reuseDom   : React.PropTypes.bool,
+		//className  : React.PropTypes.string,
 	},
 
 	getDefaultProps(){
