@@ -15,5 +15,6 @@
       "security": "Security"
     },
     "cacheDir": ".changelog"
-  }
+  },
+  "version": "0.7.0-hack2017-2"
 }
