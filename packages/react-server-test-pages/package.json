@@ -1,6 +1,6 @@
 {
   "name": "react-server-test-pages",
-  "version": "0.6.4",
+  "version": "0.7.0-hack2017-2",
   "private": true,
   "description": "Some pages to test out features of react-server",
   "main": "index.js",
@@ -14,17 +14,20 @@
   "author": "Bo Borgerson",
   "license": "Apache-2.0",
   "dependencies": {
+    "eslint-plugin-react": "^6.4.1",
     "lodash": "^4.16.4",
     "q": "1.4.1",
     "react": "~0.14.2 || ^16.0.0-alpha.13",
     "react-dom": "~0.14.2 || ^16.0.0-alpha.13",
-    "react-server": "^0.6.4",
-    "react-server-cli": "^0.6.4",
-    "react-server-data-bundle-cache": "^0.6.4",
-    "react-server-middleware-json-response": "^0.6.1",
-    "react-server-redux": "^0.6.3",
-    "redux-thunk": "^2.1.0",
-    "eslint-plugin-react": "^6.4.1"
+    "react-server": "^0.7.0-hack2017-2",
+    "react-server-cli": "^0.7.0-hack2017-2",
+    "react-server-data-bundle-cache": "^0.7.0-hack2017-2",
+    "react-server-middleware-json-response": "^0.7.0-hack2017-2",
+    "react-server-redux": "^0.7.0-hack2017-2",
+    "redux-thunk": "^2.1.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
@@ -32,7 +35,7 @@
     "eslint": "^3.8.1",
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
-    "rimraf": "^2.5.4",
-    "gulp-nsp": "^2.4.2"
+    "gulp-nsp": "^2.4.2",
+    "rimraf": "^2.5.4"
   }
 }

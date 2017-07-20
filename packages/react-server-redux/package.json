@@ -1,6 +1,6 @@
 {
   "name": "react-server-redux",
-  "version": "0.6.3",
+  "version": "0.7.0-hack2017-2",
   "description": "Redux support for React-Server",
   "main": "target/index.js",
   "scripts": {
@@ -24,6 +24,9 @@
   "dependencies": {
     "react-redux": "^5.0.1",
     "redux": "^3.6.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   },
   "peerDependencies": {
     "react": "~0.14.2 || ^16.0.0-alpha.13"
