@@ -1,6 +1,6 @@
 {
   "name": "flab",
-  "version": "0.7.0-hack2017-2",
+  "version": "0.7.0-hack2017-3",
   "description": "Future Loading and Blocking JS",
   "main": "index.js",
   "files": [
@@ -31,7 +31,7 @@
     "url": "https://github.com/redfin/react-server/issues"
   },
   "publishConfig": {
-    "registry": "http://localhost:4873"
+    "registry": "http://npm.redfintest.com:4873"
   },
   "homepage": "https://github.com/redfin/react-server#readme",
   "devDependencies": {

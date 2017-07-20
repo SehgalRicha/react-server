@@ -1,6 +1,6 @@
 {
   "name": "react-server-website",
-  "version": "0.7.0-hack2017-2",
+  "version": "0.7.0-hack2017-3",
   "description": "A react-server instance",
   "main": "HelloWorld.js",
   "private": true,
@@ -19,17 +19,17 @@
     "highlight.js": "^9.5.0",
     "react": "~0.14.2 || ^16.0.0-alpha.13",
     "react-dom": "~0.14.2 || ^16.0.0-alpha.13",
-    "react-server": "^0.7.0-hack2017-2",
-    "react-server-cli": "^0.7.0-hack2017-2",
-    "react-server-data-bundle-cache": "^0.7.0-hack2017-2",
+    "react-server": "^0.7.0-hack2017-3",
+    "react-server-cli": "^0.7.0-hack2017-3",
+    "react-server-data-bundle-cache": "^0.7.0-hack2017-3",
     "remarkable": "^1.6.2"
   },
   "publishConfig": {
-    "registry": "http://localhost:4873"
+    "registry": "http://npm.redfintest.com:4873"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
-    "babel-preset-react-server": "^0.7.0-hack2017-2",
+    "babel-preset-react-server": "^0.7.0-hack2017-3",
     "docco": "^0.7.0",
     "eslint": "^3.8.1",
     "eslint-plugin-react": "^6.4.1",

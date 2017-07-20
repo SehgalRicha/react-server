@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-react-server",
-  "version": "0.7.0-hack2017-2",
+  "version": "0.7.0-hack2017-3",
   "description": "A recommended Babel config for working with react-server",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "Doug Wade <doug.wade@redfin.com>",
   "license": "Apache License 2.0",
   "dependencies": {
-    "babel-plugin-react-server": "^0.7.0-hack2017-2",
+    "babel-plugin-react-server": "^0.7.0-hack2017-3",
     "babel-plugin-transform-runtime": "^6.15.0",
     "babel-preset-es2015": "^6.18.0",
     "babel-preset-react": "^6.16.0",
@@ -26,7 +26,7 @@
     "babel-runtime": "^6.18.0"
   },
   "publishConfig": {
-    "registry": "http://localhost:4873"
+    "registry": "http://npm.redfintest.com:4873"
   },
   "devDependencies": {
     "ava": "^0.17.0",
