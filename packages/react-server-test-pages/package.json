@@ -1,6 +1,6 @@
 {
   "name": "react-server-test-pages",
-  "version": "0.7.0-hack2017-4",
+  "version": "0.7.0-hack2017-5",
   "private": true,
   "description": "Some pages to test out features of react-server",
   "main": "index.js",
@@ -19,11 +19,11 @@
     "q": "1.4.1",
     "react": "~0.14.2 || ^16.0.0-alpha.13",
     "react-dom": "~0.14.2 || ^16.0.0-alpha.13",
-    "react-server": "^0.7.0-hack2017-4",
-    "react-server-cli": "^0.7.0-hack2017-4",
-    "react-server-data-bundle-cache": "^0.7.0-hack2017-4",
-    "react-server-middleware-json-response": "^0.7.0-hack2017-4",
-    "react-server-redux": "^0.7.0-hack2017-4",
+    "react-server": "^0.7.0-hack2017-5",
+    "react-server-cli": "^0.7.0-hack2017-5",
+    "react-server-data-bundle-cache": "^0.7.0-hack2017-5",
+    "react-server-middleware-json-response": "^0.7.0-hack2017-5",
+    "react-server-redux": "^0.7.0-hack2017-5",
     "redux-thunk": "^2.1.0"
   },
   "publishConfig": {
