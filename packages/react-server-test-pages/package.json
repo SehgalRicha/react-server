@@ -1,6 +1,6 @@
 {
   "name": "react-server-test-pages",
-  "version": "0.7.0-hack2017-6",
+  "version": "0.7.0-hack2017-7",
   "private": true,
   "description": "Some pages to test out features of react-server",
   "main": "index.js",
@@ -19,15 +19,15 @@
     "q": "1.4.1",
     "react": "~0.14.2 || ^16.0.0-alpha.13",
     "react-dom": "~0.14.2 || ^16.0.0-alpha.13",
-    "react-server": "^0.7.0-hack2017-6",
-    "react-server-cli": "^0.7.0-hack2017-6",
-    "react-server-data-bundle-cache": "^0.7.0-hack2017-6",
-    "react-server-middleware-json-response": "^0.7.0-hack2017-6",
-    "react-server-redux": "^0.7.0-hack2017-6",
+    "react-server": "^0.7.0-hack2017-7",
+    "react-server-cli": "^0.7.0-hack2017-7",
+    "react-server-data-bundle-cache": "^0.7.0-hack2017-7",
+    "react-server-middleware-json-response": "^0.7.0-hack2017-7",
+    "react-server-redux": "^0.7.0-hack2017-7",
     "redux-thunk": "^2.1.0"
   },
   "publishConfig": {
-    "registry": "http://npm.redfintest.com:4873"
+    "registry": "http://localhost:4873"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",

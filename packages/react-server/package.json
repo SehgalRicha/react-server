@@ -1,6 +1,6 @@
 {
   "name": "react-server",
-  "version": "0.7.0-hack2017-6",
+  "version": "0.7.0-hack2017-7",
   "description": "React framework with server render for blazing fast page load and seamless transitions between pages in the browser.",
   "main": "target/server/server.js",
   "browser": "target/client/client.js",
@@ -29,7 +29,7 @@
     "cookie-parser": "1.4.3",
     "eventemitter3": "^2.0.2",
     "express-state": "^1.4.0",
-    "flab": "^0.7.0-hack2017-6",
+    "flab": "^0.7.0-hack2017-7",
     "lodash": "^4.16.4",
     "mobile-detect": "^1.3.5",
     "q": "^1.5.0",
@@ -44,7 +44,7 @@
     "superagent": "1.8.4"
   },
   "publishConfig": {
-    "registry": "http://npm.redfintest.com:4873"
+    "registry": "http://localhost:4873"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
@@ -74,7 +74,7 @@
     "minimist": "^1.2.0",
     "react": "~0.14.2 || ^16.0.0-alpha.13",
     "react-dom": "~0.14.2 || ^16.0.0-alpha.13",
-    "react-server-gulp-module-tagger": "^0.7.0-hack2017-6",
+    "react-server-gulp-module-tagger": "^0.7.0-hack2017-7",
     "rimraf": "^2.5.4",
     "superagent": "^3.1.0"
   }

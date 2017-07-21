@@ -1,12 +1,12 @@
 {
   "name": "babel-plugin-react-server",
-  "version": "0.7.0-hack2017-6",
+  "version": "0.7.0-hack2017-7",
   "description": "Babel plugin for React Server transpilation",
   "repository": "redfin/babel-plugin-react-server",
   "author": "Doug Wade <doug.wade@redfin.com>",
   "main": "lib/index.js",
   "dependencies": {
-    "react-server-module-tagger": "^0.7.0-hack2017-6"
+    "react-server-module-tagger": "^0.7.0-hack2017-7"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
@@ -27,7 +27,7 @@
     "prepublish": "npm run clean && npm run build"
   },
   "publishConfig": {
-    "registry": "http://npm.redfintest.com:4873"
+    "registry": "http://localhost:4873"
   },
   "keywords": [
     "react",

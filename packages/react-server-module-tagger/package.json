@@ -1,6 +1,6 @@
 {
   "name": "react-server-module-tagger",
-  "version": "0.7.0-hack2017-6",
+  "version": "0.7.0-hack2017-7",
   "description": "calculates module level config",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/redfin/react-server#readme",
   "publishConfig": {
-    "registry": "http://npm.redfintest.com:4873"
+    "registry": "http://localhost:4873"
   },
   "devDependencies": {
     "ava": "^0.21.0",

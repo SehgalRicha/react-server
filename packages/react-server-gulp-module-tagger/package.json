@@ -1,6 +1,6 @@
 {
   "name": "react-server-gulp-module-tagger",
-  "version": "0.7.0-hack2017-6",
+  "version": "0.7.0-hack2017-7",
   "description": "A gulp plugin to replace tags with module information",
   "main": "index.js",
   "scripts": {
@@ -18,10 +18,10 @@
     "gulp-foreach": "0.1.0",
     "gulp-plumber": "^1.1.0",
     "gulp-replace": "^0.5.4",
-    "react-server-module-tagger": "^0.7.0-hack2017-6"
+    "react-server-module-tagger": "^0.7.0-hack2017-7"
   },
   "publishConfig": {
-    "registry": "http://npm.redfintest.com:4873"
+    "registry": "http://localhost:4873"
   },
   "devDependencies": {
     "ava": "^0.17.0",

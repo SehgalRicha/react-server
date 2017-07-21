@@ -7,7 +7,7 @@
     "clean": "rimraf npm-debug.log*"
   },
   "publishConfig": {
-    "registry": "http://npm.redfintest.com:4873"
+    "registry": "http://localhost:4873"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
@@ -18,5 +18,5 @@
     "gulp-eslint": "^4.0.0",
     "rimraf": "^2.5.4"
   },
-  "version": "0.7.0-hack2017-6"
+  "version": "0.7.0-hack2017-7"
 }
