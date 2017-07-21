@@ -1,6 +1,6 @@
 {
   "name": "react-server-redux",
-  "version": "0.7.0-hack2017-5",
+  "version": "0.7.0-hack2017-6",
   "description": "Redux support for React-Server",
   "main": "target/index.js",
   "scripts": {
